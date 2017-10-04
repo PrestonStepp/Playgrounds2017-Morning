@@ -3,12 +3,27 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/pste9009/Documents/Playgrounds2017/GUI%20Playground.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=214&amp;EndingColumnNumber=12&amp;EndingLineNumber=7&amp;StartingColumnNumber=1&amp;StartingLineNumber=7&amp;Timestamp=528819458.946911"
+         documentLocation = "file:///Users/pste9009/Documents/Playgrounds2017/GUI%20Playground.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=211&amp;EndingColumnNumber=12&amp;EndingLineNumber=7&amp;StartingColumnNumber=1&amp;StartingLineNumber=7&amp;Timestamp=528820860.554037"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/pste9009/Documents/Playgrounds2017/GUI%20Playground.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=292&amp;EndingColumnNumber=12&amp;EndingLineNumber=9&amp;StartingColumnNumber=1&amp;StartingLineNumber=9&amp;Timestamp=528819458.947089"
+         documentLocation = "file:///Users/pste9009/Documents/Playgrounds2017/GUI%20Playground.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=289&amp;EndingColumnNumber=12&amp;EndingLineNumber=9&amp;StartingColumnNumber=1&amp;StartingLineNumber=9&amp;Timestamp=528820860.554166"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/pste9009/Documents/Playgrounds2017/GUI%20Playground.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=462&amp;EndingColumnNumber=13&amp;EndingLineNumber=12&amp;StartingColumnNumber=1&amp;StartingLineNumber=12&amp;Timestamp=528820860.554253"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/pste9009/Documents/Playgrounds2017/GUI%20Playground.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=555&amp;EndingColumnNumber=10&amp;EndingLineNumber=14&amp;StartingColumnNumber=41&amp;StartingLineNumber=13&amp;Timestamp=528820860.554339"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/pste9009/Documents/Playgrounds2017/GUI%20Playground.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=558&amp;EndingColumnNumber=13&amp;EndingLineNumber=14&amp;StartingColumnNumber=1&amp;StartingLineNumber=14&amp;Timestamp=528820860.554422"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
